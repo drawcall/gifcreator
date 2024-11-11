@@ -75,6 +75,12 @@ const video = path.resolve(__dirname, 'video.mp4');
 gifCreator.addVideo(video);
 ```
 
+<p align="center">
+  <img src="https://github.com/drawcall/gifcreator/blob/main/examples/demo/1.gif?raw=true" width="28%" />
+  <img src="https://github.com/drawcall/gifcreator/blob/main/examples/demo/2.gif?raw=true" width="28%" style="margin: 0 2%;" />
+  <img src="https://github.com/drawcall/gifcreator/blob/main/examples/demo/3.gif?raw=true" width="28%" />
+</p>
+
 ## API and Documentation
 
 ### Constructor
